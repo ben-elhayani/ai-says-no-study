@@ -4,6 +4,8 @@ An open dataset from a small test run on 19 and 20 November 2026. We asked ChatG
 
 Full write-up: https://regga.ai/study
 
+Also on Hugging Face: https://huggingface.co/datasets/regga-ai/ai-says-no-study
+
 ## What is in it
 
 One file: ai-says-no-2026-11.csv, with 60 rows.
