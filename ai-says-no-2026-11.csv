@@ -1,0 +1,61 @@
+id,group,question,true_answer,truth_note,truth_sources,chatgpt,chatgpt_rerun,gemini,claude
+A1,new_feature,Can I set the alarm volume on my iPhone separately from the ringer volume?,yes,iOS 27 (Sounds & Haptics > Alarms and Timers > Match Ringtone Volume off),,wrong_no,partial,wrong_no,correct
+A2,new_feature,"Can I set a custom equalizer for my AirPods on iPhone, without a third-party app?",yes,iOS 27 (AirPods settings > Audio & Routing > Equalizer > Custom),,wrong_no,wrong_no,correct,correct
+A3,new_feature,Can I sort the songs inside a YouTube Music playlist by artist or title?,yes,rolling out 2026,,self_corrected,,wrong_no,correct
+A4,new_feature,"Does Chrome have built-in vertical tabs, without an extension?",yes,2026,,correct,,correct,correct
+A5,new_feature,"On iPhone, can I reply to one specific message in a chat with an Android user?",yes,"iOS 27, RCS chats",,correct,,correct,correct
+A6,new_feature,Can I add a store loyalty card to Apple Wallet on my iPhone if the store doesn't offer an Add to Apple Wallet option?,yes,iOS 27 Create a Pass,,partial,,correct,correct
+A7,new_feature,Can my friend with an Android phone add their own photos to my iCloud Shared Album?,yes,"iOS 27, via iCloud.com",,wrong_no,wrong_no,correct,correct
+A8,new_feature,Does Gmail warn me before I hit Reply All on an email where I was only BCC'd?,yes,since 30 Jul 2026,,wrong_no,wrong_no,correct,correct
+A9,new_feature,Can I use two WhatsApp accounts in the same WhatsApp app on one iPhone?,yes,2026,,correct,,correct,correct
+A10,new_feature,"Can Safari on iPhone notify me when a web page changes, without installing another app?",yes,iOS 27 Notify Me,,wrong_no,wrong_no,wrong_no,correct
+A11,new_feature,Can someone who doesn't have WhatsApp join my WhatsApp video call?,yes,"guest calling, 14 Oct 2026",,wrong_no,wrong_no,correct,correct
+A12,new_feature,"When I add someone to a WhatsApp group, can they see the messages that were sent before they joined?",yes,if the person adding them shares 25-100 recent messages (Feb 2026),,correct,,wrong_no,correct
+A13,new_feature,"On my Pixel, can I remove the At a Glance widget from the home screen without installing another launcher?",yes,current Pixel software (Show on home screen off),,wrong_no,wrong_no,correct,correct
+A14,new_feature,"Can I hide the app names under the icons on my Pixel home screen, without another launcher?",yes,Android 17,,wrong_no,wrong_no,correct,correct
+A15,new_feature,Can I move the Windows 11 taskbar to the left side of the screen without third-party tools?,yes,Windows 11 26H2 (29 Sep 2026),"digitaltrends.com, pcworld.com, windowscentral.com",wrong_no,wrong_no,correct,correct
+A16,new_feature,Can I pause Windows 11 updates for longer than five weeks?,yes,"repeatable 35-day pause, no maximum (Apr 2026)","pureinfotech.com, digitalcitizen.life",correct,,correct,correct
+A17,new_feature,Can Windows 11 format a 128 GB USB drive as FAT32 without third-party software?,yes,"with the format command (up to 2 TB, 2026); the Format window still stops at 32 GB","windowscentral.com (May 2026 update), storagenewsletter.com, techspot.com",correct,,correct,correct
+A18,new_feature,Can I view two tabs side by side in one Chrome window without an extension?,yes,Split View (Feb 2026),"techcrunch.com, androidauthority.com, blog.google",correct,,correct,correct
+A19,new_feature,Can I highlight text and add notes to a PDF in Chrome's built-in PDF viewer?,yes,Feb 2026,"blog.google, chromeunboxed.com",correct,,correct,correct
+A20,new_feature,Can I rearrange the order of the posts on my Instagram profile grid?,yes,Jun 2026,"macrumors.com, 9to5mac.com",correct,,correct,correct
+A21,new_feature,Can I edit a comment I posted on Instagram?,yes,within 15 minutes (Apr 2026),"techcrunch.com, macrumors.com, engadget.com",wrong_no,wrong_no,correct,correct
+A22,new_feature,"Can I send a video to a friend inside the YouTube app, without copying the link to another app?",yes,"YouTube messages are back (Jun 2026; US, UK and more)","tubefilter.com, cordcuttersnews.com",correct,,correct,correct
+A23,new_feature,Can I upload a custom thumbnail image for a YouTube Short?,yes,"desktop YouTube Studio, Partner Program first (Jul 2026)","YouTube Help (support.google.com/youtube/answer/72431), engadget.com",self_corrected,,correct,correct
+A24,new_feature,Can I pin more than four playlists to the top of my Spotify library?,yes,up to 20 (Jul 2026),"neowin.net, bgr.com",self_corrected,,correct,correct
+A25,new_feature,Can I create playlist folders in the Spotify mobile app?,yes,May 2026,"community.spotify.com (Spotify staff), 9to5google.com, engadget.com",self_corrected,,correct,correct
+A26,new_feature,Can I see song lyrics in Spotify when I'm offline?,yes,"with downloaded songs, Premium (Feb 2026)","androidcentral.com, vice.com",wrong_no,wrong_no,correct,correct
+A27,new_feature,Can I create a new label in the Gmail app on Android?,yes,2026,"9to5google.com, androidauthority.com",correct,,correct,correct
+A28,new_feature,Can I edit a password-protected Excel file in Google Drive without removing the password first?,yes,but Drive removes the password when you choose Edit (Jan 2026; Google Workspace Updates),"workspaceupdates.googleblog.com (Google), windowsreport.com",partial,,correct,correct
+A29,new_feature,"Can I change the playback speed of a video in Google Photos on Android, without editing the video?",yes,Apr 2026,"androidauthority.com, techrepublic.com, phonearena.com",self_corrected,,correct,correct
+A30,new_feature,"Can I make WhatsApp voice or video calls from WhatsApp Web in the browser, without the desktop app?",yes,28 Jul 2026,"9to5google.com, 9to5mac.com, techrepublic.com",correct,,correct,correct
+A31,new_feature,Can I copy just part of a text message in Google Messages instead of the whole message?,yes,2026,"9to5google.com (Sep 2026), androidauthority.com",correct,,correct,correct
+A32,new_feature,Can I restore a conversation I deleted by mistake in Google Messages?,yes,"Trash folder, 30 days (2026)","androidheadlines.com, computerworld.com",correct,,correct,correct
+A33,new_feature,Can I set a custom wallpaper for a single chat in Google Messages?,yes,Chat theme (2026),"9to5google.com, bgr.com",correct,,correct,correct
+A34,new_feature,"Is there a way in the iPhone Photos app to see only the photos I took with the camera, without screenshots and saved images?",yes,iOS 27 Captured by Me,"9to5mac.com, macworld.com, idownloadblog.com",partial,,correct,correct
+A35,new_feature,"Can I make my iPhone upload new photos to iCloud right away, instead of waiting for Wi-Fi and charging?",yes,iOS 27 Sync Immediately,"macrumors.com, techcrunch.com, idownloadblog.com",partial,,correct,correct
+A36,new_feature,Do iCloud Shared Albums keep photos at full resolution?,yes,new or upgraded albums in iOS 27,"macrumors.com, support.apple.com, foxnews.com",wrong_no,wrong_no,correct,correct
+A37,new_feature,Can I drag to a specific point in a song on the CarPlay Now Playing screen?,yes,iOS 27,"macrumors.com, 9to5mac.com, digitaltrends.com",wrong_no,wrong_no,correct,correct
+A38,new_feature,Can I resize the iPhone Mirroring window on my Mac to a different shape?,yes,macOS 27,"macrumors.com, 9to5mac.com, cultofmac.com",wrong_no,wrong_no,correct,correct
+A39,new_feature,Can I watch DRM-protected streaming video through iPhone Mirroring on my Mac?,yes,macOS 27,"macrumors.com, cultofmac.com",wrong_no,wrong_no,correct,correct
+A40,new_feature,Can I change the Liquid Glass transparency with a slider on my Mac?,yes,macOS 27,"support.apple.com, digitaltrends.com",wrong_no,wrong_no,correct,correct
+B1,niche_product,Is there a Chrome extension that automatically declines calendar invites that have no agenda?,yes,No Goal No Call,,correct,,wrong_no,correct
+B2,niche_product,Is there an Obsidian plugin that reads my notes aloud and highlights each word as it reads?,yes,"Note Reader, Murmur, Local TTS Reader and more",,correct,,correct,correct
+B3,niche_product,Is there an app that turns a knitting pattern PDF into a row-by-row counter automatically?,yes,"InterTwined, Rowtine, Cablewick",,correct,,partial,correct
+B4,niche_product,Is there a service that turns my parents' WhatsApp voice notes into a printed memoir book?,yes,"Mon Livre de Vie, Minha Historia, Said & Saved",,correct,,correct,correct
+B5,niche_product,Is there a tool that checks if an app name is already taken on both the App Store and Google Play?,yes,"AppDrift App Name Checker, Namecheckly",,correct,,correct,correct
+B6,niche_product,"Is there a Chrome extension that adds a comment section to Netflix shows, synced to the scene?",yes,"Couch Critics, Couch Critic",,correct,,correct,correct
+B7,niche_product,"Is there an iPhone app that plans walking routes by safety, not just by the shortest way?",yes,"Walkable, SafeWalk AI",,correct,,correct,correct
+B8,niche_product,Is there a Mac app that shows synced song lyrics in the menu bar for Spotify and Apple Music?,yes,"Lychee, Lyricly, Lyrimuse",,correct,,correct,correct
+B9,niche_product,"Is there an app like Letterboxd, but for concerts I've been to?",yes,"Soundcheckd, ConcertCritic, Encore, Concert Archives",,correct,,correct,correct
+B10,niche_product,"Is there a Mac menu bar app that tells me if my internet is good enough for a video call, and whether the problem is my Wi-Fi or my provider?",yes,MacWiFi,,correct,,correct,correct
+C1,control,Can I download Netflix shows to watch offline on my Mac with an official Netflix app?,no,"no Mac app; downloads only on phones, tablets and some Chromebooks","machow2.com, asurion.com, macpaw.com",correct,,correct,correct
+C2,control,Can I undo sending an email in Gmail more than 30 seconds after I hit Send?,no,30 s maximum,"blog.google, proton.me",correct,,correct,correct
+C3,control,Can I download songs for offline listening with a free Spotify account?,no,music downloads are Premium; free can download podcasts,spotify.com,correct,,correct,correct
+C4,control,Can I see who viewed my Instagram profile?,no,only aggregate numbers for business accounts,"surfshark.com, beebom.com",correct,,correct,correct
+C5,control,Can I use Apple Pay on an Android phone?,no,,"techyorker.com, flashget.com",correct,,correct,correct
+C6,control,"Can I see what a WhatsApp message said after the sender deleted it for everyone, from inside WhatsApp?",no,notification-log tricks outside WhatsApp only,"xda-developers.com, lilachbullock.com",correct,,correct,correct
+C7,control,Can I see the names of the people who watched my YouTube video?,no,aggregate analytics only,"timeskip.io, descript.com",correct,,correct,correct
+C8,control,Can I send SMS text messages from my Mac if I don't have an iPhone?,no,needs an iPhone for text forwarding,"support.apple.com, Apple Community",correct,,correct,correct
+C9,control,Does Instagram notify me when someone unfollows me?,no,,"laptopmag.com, androidauthority.com",correct,,correct,correct
+C10,control,Can I edit an email in Gmail after it has already been delivered?,no,"only undo within the send window, or Schedule Send","proton.me, supportbee.com",correct,,correct,correct
