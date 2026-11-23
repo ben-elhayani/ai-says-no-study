@@ -56,4 +56,4 @@ CC BY 4.0. You can use, share and adapt the data with credit to Regga (regga.ai/
 
 ## About
 
-Made by Regga. When AI say no take a scecond look. https://regga.ai
+Made by Regga. When AI says no take a second look. https://regga.ai
